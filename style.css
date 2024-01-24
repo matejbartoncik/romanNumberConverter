@@ -1,0 +1,34 @@
+/* FILEPATH: /c:/Users/barto/VSProjects/romanNumberConverter/romanNumberConverter/style.css */
+
+/* Center all elements */
+* {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+/* Add some colors */
+body {
+    background-color: #4e4e4e;
+}
+
+h1 {
+    color: #be6060;
+}
+#convert-btn {
+    background-color: #be6060;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    padding: 10px;
+    margin: 10px;
+    cursor: pointer;
+}
+p {
+    color: #666;
+}
+
+/* BEGIN: Add more styles for other elements if needed */
+
+/* END: Add more styles for other elements if needed */
